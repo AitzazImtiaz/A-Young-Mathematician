@@ -1,2 +1,2 @@
 # A-Young-Mathematician
-The code used used by NeuroStol for my book.
+The code used by NeuroStol for my book.
